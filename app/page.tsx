@@ -9,7 +9,9 @@ export default function Home() {
 
       <p>hello</p>
 
-      <h2>My Projects</h2>
+      <div>
+        <h2>My projects</h2>
+      </div>
 
       <button>click me</button>
     </>
