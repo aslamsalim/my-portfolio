@@ -9,6 +9,7 @@ export default function Home() {
 
       <p>hello</p>
 
+      <button>click me</button>
       <p>
         In this portfolio, I invite you to explore a collection of projects that
         embody my passion for creating captivating and functional spaces. Each
@@ -18,7 +19,6 @@ export default function Home() {
         transcend the ordinary. Thank you for joining me on this journey of
         architectural exploration.
       </p>
-      <button>click me</button>
     </>
   );
 }
