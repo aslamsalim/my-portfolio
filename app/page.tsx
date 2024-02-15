@@ -9,8 +9,9 @@ export default function Home() {
 
       <p>hello</p>
 
-      <button>click me</button>
       <h2>My Projects</h2>
+
+      <button>click me</button>
     </>
   );
 }
